@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,a,span,label,::placeholder,input {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+}
