@@ -33,12 +33,13 @@ const Navbar = () => {
       {/* Main Navigation */}
       <div className="max-w-full mx-auto px-4 sm:px-8 lg:px-28 pt-3 pb-6 flex items-center justify-between gap-4">
         {/* Logo */}
-        <a href="#" className="flex items-center gap-2">
-          <img
+        <a href="#" className="flex items-center gap-2 text-3xl text-[#974216] font-semibold">
+          {/* <img
             src="https://ext.same-assets.com/752540071/1942925134.png"
             alt="Terra Nest Logo"
             className="h-8 md:h-10"
-          />
+          /> */}
+          Prime Haven
         </a>
 
         {/* Desktop Navigation */}
