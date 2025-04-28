@@ -1,6 +1,6 @@
 const StatsCard = ({image,heading,title}) => {
     return (
-      <div className="w-[300px] bg-white shadow-2xl  rounded-xl p-6 text-center space-y-5 py-10">
+      <div className="w-[300px] bg-white shadow-2xl  rounded-xl p-6 text-center space-y-5 py-8">
         <div className="flex justify-center text-4xl text-orange-600">
           {/* Replace with an icon of your choice, e.g., from Heroicons, Lucide, or an image */}
           <img src={image} alt="Customers Icon" className="w-12 h-12" />

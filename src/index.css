@@ -5,7 +5,7 @@ h1,
 h2,
 h3,
 h4,
-h5,a,span,label,::placeholder,input {
+h5,a,span,label,::placeholder,input,button {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
 }
